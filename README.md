@@ -1,82 +1,70 @@
-<div align="center">
-
-# ¡Hola, soy Adrian Javier Cano! 👋
-
-### `Ciberseguridad Defensiva (Blue Team) | Arquitecturas Multi-Agente de IA | Derecho Informático`
-
-[![Portfolio](https://img.shields.io/badge/Portafolio-00ff66?style=for-the-badge&logo=vercel&logoColor=black)](https://pfo-1-cano-adrian-javier.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrianJavierCano)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:canoadrianjavier@gmail.com)
-
-</div>
-
----
-
-## 👨‍💻 Sobre mí
-
-Analista y tecnólogo con mentalidad defensiva en el ecosistema informático, enfocado en la protección activa de infraestructura, flujos autónomos de inteligencia artificial y cumplimiento normativo legal-técnico:
-
-- 🛡️ **Especialidad:** Hardening en Linux, monitoreo SOC y pentesting en entornos tácticos (Homelab, TryHackMe, HackTheBox).
-- 🤖 **Inteligencia Artificial:** Orquestación de sistemas multi-agente con LangGraph, enrutamiento local con Ollama y bases vectoriales.
-- ⚖️ **Legal Tech:** Formación jurídica orientada a Derecho Informático, cadena de custodia, evidencia digital y Habeas Data.
-- 🎓 **Formación Técnica:** Tecnicatura en Desarrollo de Sistemas Web (IFTS29).
-- 📍 **Ubicación:** Mendoza, Argentina.
-
----
-
-## 🛠️ Tecnologías & Herramientas
+Markdown
 
 <div align="center">
 
-### Lenguajes & Scripting
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,bash,cs,kotlin,html,css" alt="Lenguajes" />
-</a>
+<!-- Banner Dinámico Estilo Terminal Matrix / Cyber -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:041a0b,100:003311&height=220&section=header&text=ADRIAN%20JAVIER%20CANO&fontSize=42&fontColor=00FF66&fontAlignY=38&desc=%5B%20CYBERSECURITY%20%7C%20MULTI-AGENT%20AI%20%7C%20LEGAL%20TECH%20%5D&descSize=16&descAlignY=58&descColor=00cc55" width="100%" alt="Header Adrian Cano" />
+
+<!-- Efecto Lluvia de Código Matrix (GIF) -->
+<img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" height="90" style="object-fit: cover; opacity: 0.85; filter: brightness(0.9) contrast(1.2);" alt="Matrix Code Stream" />
 
 <br/><br/>
 
-### Ciberseguridad & Sistemas
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=kali,debian,ubuntu,linux,wireshark,regex" alt="Sistemas y Seguridad" />
+<!-- Escritura Animada en Verde Terminal -->
+<a href="https://pfo-1-cano-adrian-javier.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF66&background=00000000&center=true&vCenter=true&width=650&lines=%3E_WAKE_UP_OPERATOR...;%3E_PURPLE_TEAM%3A+OFFENSIVE_RECON+%26+BLUE_DEFENSE;%3E_ORCHESTRATING+MULTI-LLM+AGENTS+%26+LANGGRAPH;%3E_DEPLOYING+SECURE+CODE+%26+LEGAL_TECH+COMPLIANCE" alt="Typing SVG Matrix" />
 </a>
 
-<br/><br/>
+<br/>
 
-### IA, Bases de Datos & Cloud
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=sqlite,postgres,gcp,git,github,vscode" alt="Tools y DB" />
-</a>
+[![Portfolio Live](https://img.shields.io/badge/TARGET_NODE-PFO--1-001100?style=for-the-badge&logo=vercel&logoColor=00FF66&labelColor=000000)](https://pfo-1-cano-adrian-javier.vercel.app/)
+[![GitHub](https://img.shields.io/badge/OPERATOR-AdrianJavierCano-001100?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=000000)](https://github.com/AdrianJavierCano)
+[![Secure Mail](https://img.shields.io/badge/SECURE_CHANNEL-canoadrianjavier%40gmail.com-001100?style=for-the-badge&logo=gmail&logoColor=00FF66&labelColor=000000)](mailto:canoadrianjavier@gmail.com)
 
-</div>
+```text
+[✓] SYSTEM_ROOT: GRANTED  |  [✓] CIPHER: AES-256-GCM  |  [✓] NODE: MDZ_AR (-32.889)
 
----
+📡 [0x01 // DOSSIER DE PERFIL]
+Bash
 
-## 📂 Operaciones & Proyectos Destacados
+adrian@matrix-core:~$ cat /etc/dossier.log
 
-| Operación | Tipo | Descripción | Tecnologías |
-| :--- | :---: | :--- | :--- |
-| **JARVIS Cyber** | `En desarrollo` | Asistente multi-agente para auditoría y entrenamiento en homelab con routing determinístico. | `LangGraph` `Ollama` `LanceDB` `Python` |
-| **Automaton+** | `En desarrollo` | Agente autónomo multi-LLM con compuertas de verificación y tolerancia a fallos (*failover*). | `Node.js` `TypeScript` `Multi-LLM` |
-| **Themis AI** | `Operativo` | Plataforma Legal Tech para análisis jurisprudencial (InfoLeg / SAIJ) y revisión contractual con RAG. | `Gemini` `RAG` `Multi-Agente` |
-| **Mendoza Integrity Monitor** | `Operativo` | Monitoreo de integridad pública y datos cruzados bajo estándares anticorrupción de la OCDE. | `Google Cloud` `Compliance` `Data Governance` |
+    "Comprender el vector de ataque para forjar la defensa absoluta. Operando en la matriz técnica entre ciberseguridad, agentes autónomos y derecho digital."
 
----
+    🟢 Postura Táctica (Purple Team): Hardening de servidores Linux, simulación táctica de adversarios en Homelabs (TryHackMe & HackTheBox), monitoreo SOC y análisis de telemetría.
 
-## 📊 Estadísticas de GitHub
+    🤖 Arquitectura de IA Táctica: Orquestación determinística de grafos multi-agente (LangGraph / LangChain), routing local soberano vía Ollama, almacenes vectoriales (LanceDB / Chroma) y defensa activa ante Prompt Injections.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianJavierCano&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianJavierCano&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
+    ⚖️ Legal Tech & Derecho Informático: Base académica en Abogacía orientada a cibercrimen, preservación estricta de evidencia digital, cadena de custodia y Habeas Data.
 
----
+    🎓 Formación Técnica: Tecnicatura en Desarrollo de Sistemas Web (IFTS29).
 
-## 📬 Contacto & Conexión
+    📍 Nodo Físico: Mendoza, Argentina.
 
-- 🌐 **Web:** [pfo-1-cano-adrian-javier.vercel.app](https://pfo-1-cano-adrian-javier.vercel.app/)
-- 📧 **Email:** [canoadrianjavier@gmail.com](mailto:canoadrianjavier@gmail.com)
-- 🐙 **GitHub:** [@AdrianJavierCano](https://github.com/AdrianJavierCano)
+⚙️ [0x02 // ARSENAL & WEAPONRY]
+🛡️ Ciberseguridad Defensiva & Ofensiva
+🤖 Agentes IA, Stack Dev & Cloud
+📂 [0x03 // OPERACIONES CLASIFICADAS]
+Operación	Estado	Directiva de Misión	Vector Tecnológico
+🟢 JARVIS Cyber	OPERATIONAL	Asistente multi-agente de ciberseguridad para entrenamiento homelab con routing determinístico vía Ollama.	LangGraph Ollama LanceDB Parrot OS Python
+⚡ Automaton+	ACTIVE	Orquestador multi-LLM con compuertas de verificación determinísticas (verification gates) y conmutación (failover).	Node.js TypeScript Multi-LLM Gateways
+⚖️ Themis AI	DEPLOYED	Suite Legal Tech: extracción jurisprudencial argentina (InfoLeg/SAIJ) y análisis forense documental automatizado.	Gemini API RAG Pipeline Multi-Agente
+🏛️ Mendoza Integrity Monitor	DEPLOYED	Plataforma de transparencia institucional y control de integridad de datos públicos bajo estándares OCDE.	Google Cloud Compliance Data Governance
+📊 [0x04 // TELEMETRÍA EN TIEMPO REAL]
+Plaintext
 
-<div align="center">
-  <sub>© Adrian Javier Cano — Mendoza, Argentina</sub>
-</div>
+[+] RUNNING_TELEMETRY_DIAGNOSTIC...
+
+🔒 [0x05 // CANAL DE TRANSMISIÓN SEGURA]
+Bash
+
+adrian@matrix-core:~$ nc -zv secure_node 443 --protocol=tls --cipher=aes-256-gcm
+
+    🌐 Terminal Web en Vivo: pfo-1-cano-adrian-javier.vercel.app
+
+    📬 Enlace PGP / Mail: canoadrianjavier@gmail.com
+
+    🐙 Repositorio Central: github.com/AdrianJavierCano
+
+
+Gemini es una IA y puede cometer errores.
