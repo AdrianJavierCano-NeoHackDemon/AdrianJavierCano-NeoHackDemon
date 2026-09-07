@@ -45,13 +45,7 @@ adrian@matrix-core:~$ cat /etc/dossier.log
 🛡️ Ciberseguridad Defensiva & Ofensiva
 🤖 Agentes IA, Stack Dev & Cloud
 📂 [0x03 // OPERACIONES CLASIFICADAS]
-Operación	Estado	Directiva de Misión	Vector Tecnológico
-🟢 JARVIS Cyber	OPERATIONAL	Asistente multi-agente de ciberseguridad para entrenamiento homelab con routing determinístico vía Ollama.	LangGraph Ollama LanceDB Parrot OS Python
-⚡ Automaton+	ACTIVE	Orquestador multi-LLM con compuertas de verificación determinísticas (verification gates) y conmutación (failover).	Node.js TypeScript Multi-LLM Gateways
-⚖️ Themis AI	DEPLOYED	Suite Legal Tech: extracción jurisprudencial argentina (InfoLeg/SAIJ) y análisis forense documental automatizado.	Gemini API RAG Pipeline Multi-Agente
-🏛️ Mendoza Integrity Monitor	DEPLOYED	Plataforma de transparencia institucional y control de integridad de datos públicos bajo estándares OCDE.	Google Cloud Compliance Data Governance
-📊 [0x04 // TELEMETRÍA EN TIEMPO REAL]
-Plaintext
+
 
 [+] RUNNING_TELEMETRY_DIAGNOSTIC...
 
