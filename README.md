@@ -60,5 +60,3 @@ adrian@matrix-core:~$ nc -zv secure_node 443 --protocol=tls --cipher=aes-256-gcm
 
     🐙 Repositorio Central: github.com/AdrianJavierCano
 
-
-Gemini es una IA y puede cometer errores.
